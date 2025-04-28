@@ -1,2 +1,2 @@
 ﻿# my-todo-app
-![todo-gif](https://github.com/user-attachments/assets/55dcb199-32cc-45df-bc1d-80e48bdf2e9e)
+![cv-app](https://github.com/user-attachments/assets/e8bc9ddd-d848-4e70-ada7-656620517dc3)
